@@ -5,7 +5,7 @@
 + Spring 2.4.3
 ### Web:
 + backend: Spring Boot 2.4.3
-+ frontend: Thymeleaf, com html,css e bootstrap
++ frontend: Thymeleaf, Html 5, Css 3 e bootstrap
 + spring security
 + spring data jpa
 + mysql database
@@ -16,7 +16,7 @@
 
 ### Caracteristicas:
 + Administrador, usuário
-+ Entrar pelo google 
++ Login pelo google 
 + Gerenciamento de produtos, tipo de produto (CRUD)
 + Ver produtos, ver detalhes
 + Gerenciar carrinho de compras (adicionar, excluir)
